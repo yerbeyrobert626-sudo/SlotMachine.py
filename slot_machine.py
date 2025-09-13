@@ -1,3 +1,4 @@
+
 import random
 
 MAX_LINES=3
